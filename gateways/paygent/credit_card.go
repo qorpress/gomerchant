@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/qor/gomerchant"
+	"github.com/qorpress/gomerchant"
 )
 
 func getValidTerm(creditCard *gomerchant.CreditCard) string {
